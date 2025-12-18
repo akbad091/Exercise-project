@@ -16,3 +16,6 @@ echo "Author: Team" >> docs/README.md
 echo "Date: 2025" >> docs/README.md
 echo "Status: Active" >> docs/README.md
 mv docs/README.md cd .
+chmod 755 src/*.py
+chmod 644 README.md
+chmod 600 src/config.py
