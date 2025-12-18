@@ -15,3 +15,4 @@ echo "Version: 1.0" >> docs/README.md
 echo "Author: Team" >> docs/README.md
 echo "Date: 2025" >> docs/README.md
 echo "Status: Active" >> docs/README.md
+mv docs/README.md cd .
