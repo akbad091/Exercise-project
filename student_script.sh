@@ -20,3 +20,4 @@ chmod 755 src/*.py
 chmod 644 README.md
 chmod 600 src/config.py
 find . -name "*.py" > file_list.txt
+rm -r docs
