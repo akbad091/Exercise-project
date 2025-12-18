@@ -5,3 +5,4 @@ echo "Main application" > src/main.py
 echo "Utility functions" > src/utils.py
 echo "Configuration" > src/config.py
 cp src/*.py build
+echo "Test cases" > tests/test.py
